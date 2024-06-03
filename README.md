@@ -43,3 +43,10 @@ Earlier server side query were wrapped into SQL and PHP to talk to the server bu
 | Vue                                 | Framework to design beautiful animation for web                            |
 | React VR                            | To develop virtual reality projects                                        |
 | Tensorflow.js                       | Used in Machine learning development using JS framework                    |
+
+### What is ES6/ES7
+**ES6 (ECMAScript 2015) and ES7 (ECMAScript 2016) refer to versions of the ECMAScript language specification, which is the standard upon which JavaScript is based. Each version introduces new features and improvements to the language.**
+
+ES6 brought major new features such as classes, modules, arrow functions, template literals, destructuring, and more, significantly enhancing the language.
+ES7 added the exponentiation operator and the Array.prototype.includes method, making it easier to work with arrays and perform exponentiation.
+These updates made JavaScript more powerful and easier to write
