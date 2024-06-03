@@ -41,3 +41,5 @@ Earlier server side query were wrapped into SQL and PHP to talk to the server bu
 | Angular JS                          | Framework for Mobile and Desktop development                               |
 | Electron                            | Desktop app with HTML, CSS and JavaScript                                  |
 | Vue                                 | Framework to design beautiful animation for web                            |
+| React VR                            | To develop virtual reality projects                                        |
+| Tensorflow.js                       | Used in Machine learning development using JS framework                    |
