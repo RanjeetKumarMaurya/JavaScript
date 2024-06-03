@@ -27,3 +27,8 @@
 
 
 ----------------------------------------------
+
+## JavaScript 
+JavaScript is considered to be a cilent side language which runs in a browser but with the time there has been a lot of development in its library and environment to support different development need.
+
+Earlier server side query were wrapped into SQL and PHP to talk to the server but now Node JS can make JavaScript code to run on server side.
