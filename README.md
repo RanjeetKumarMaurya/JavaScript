@@ -1,4 +1,6 @@
-# Frequently Used Markdown Syntax
+# JavaScript Notes
+
+## Frequently Used Markdown Syntax
 -----------------------------------------------
 
 | **Feature**          | **Syntax**                            |
