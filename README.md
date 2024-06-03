@@ -32,3 +32,12 @@
 JavaScript is considered to be a cilent side language which runs in a browser but with the time there has been a lot of development in its library and environment to support different development need.
 
 Earlier server side query were wrapped into SQL and PHP to talk to the server but now Node JS can make JavaScript code to run on server side.
+
+### Compatibilities of JS
+| **JS Framework/Library/Environment**| **Purpose**                                                                |
+|-------------------------------------|----------------------------------------------------------------------------|
+| Node JS                             | Allow JS to run on server side                                             |
+| React Native                        | Cross platform mobile app development                                      |
+| Angular JS                          | Framework for Mobile and Desktop development                               |
+| Electron                            | Desktop app with HTML, CSS and JavaScript                                  |
+| Vue                                 | Framework to design beautiful animation for web                            |
